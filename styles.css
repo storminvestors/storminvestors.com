@@ -52,6 +52,7 @@ body {
   border-top: .1rem solid #fff;
   padding: 1rem 4rem;
   font-weight: 200;
+  font-size: 1.5rem
 }
 
 .inquiries {
@@ -62,4 +63,15 @@ body {
 
 .contact {
   font-weight: 600;
+}
+
+@media only screen and (max-width: 499px) { 
+  .title {
+    font-size: 3rem;
+  }
+  
+  .sub-title {
+    padding: 1rem 2rem;
+    font-size: 1rem
+  }  
 }
