@@ -39,7 +39,7 @@ body {
 }
 
 .title {
-  font-family: "Titillium", sans-serif;
+  font-family: "Titillium Web", 'Gill Sans', sans-serif;
 	font-size: 4rem;
   margin-bottom: .5rem;
 	width: 100%;
@@ -47,7 +47,7 @@ body {
 }
 
 .sub-title {
-  font-family: "Titillium", sans-serif;
+  font-family: "Titillium Web", 'Gill Sans', sans-serif;
   border-top: .1rem solid #fff;
   padding: 1rem 4rem;
   font-weight: 200;
@@ -71,6 +71,6 @@ body {
   
   .sub-title {
     padding: 1rem 2rem;
-    font-size: 1.5rem
+    font-size: 1.2rem
   }  
 }
